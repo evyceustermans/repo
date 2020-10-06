@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="_3dcomparemode" path="3dcomparemode.html"/>
+   <appContext helpID="aperture_16"
+               path="System%20Variable%20Reference/aperture_16.html"/>
+   <appContext helpID="topic_53" path="co_bimosmode_table.html"/>
+   <appContext helpID="blipmode" path="System%20Variable%20Reference/blipmode.html"/>
+   <appContext helpID="cetransparency"
+               path="System%20Variable%20Reference/cetransparency.html"/>
+   <appContext helpID="pdmode" path="System%20Variable%20Reference/pdmode.html"/>
+   <appContext helpID="plinegen" path="System%20Variable%20Reference/plinegen.html"/>
+</map>
